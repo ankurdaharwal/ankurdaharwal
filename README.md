@@ -97,7 +97,11 @@ Being an early adopter he has been developing on Web3 since 2016 involved with s
 
 <h3> 🏆 &nbsp;Buildspace NFTs</h3>
 
-![](https://github.com/ankurdaharwal/ankurdaharwal/blob/master/solana_buildspace.mp4)
+<nft-card
+contractAddress="0x3cd266509d127d0eac42f4474f57d0526804b44e"
+tokenId="2584">
+</nft-card>
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 <br/>
 

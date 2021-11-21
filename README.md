@@ -97,8 +97,7 @@ Being an early adopter he has been developing on Web3 since 2016 involved with s
 
 <h3> 🏆 &nbsp;Buildspace NFTs</h3>
 
-<img width="320" height="240" controls>
-  <source src="https://github.com/ankurdaharwal/ankurdaharwal/blob/master/nft_buildspace.mp4" type="video/mp4">
+<img src="https://github.com/ankurdaharwal/ankurdaharwal/blob/master/nft_buildspace.mp4" type="video/mp4" width="320" height="240"/>
 </img>
 
 <br/>

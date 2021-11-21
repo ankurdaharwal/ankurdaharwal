@@ -93,4 +93,4 @@ Being an early adopter he has been developing on Web3 since 2016 involved with s
 </a>
 <br/><br/>
 
-<a href="https://app.daily.dev/ankurdaharwal"><img src="https://api.daily.dev/devcards/c74a0dfebfb8497dbf807c90e3832266.png?r=zeg" width="400" alt="Ankur's Dev Card"/></a>
+<a href="https://app.daily.dev/ankurdaharwal"><img src="https://api.daily.dev/devcards/c74a0dfebfb8497dbf807c90e3832266.png?r=a87" width="400" alt="Ankur's Dev Card"/></a>

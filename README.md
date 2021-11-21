@@ -4,7 +4,7 @@
   </a>
 </p
 <br/><br/>
-<h2> Hey 👋🏻, welcome to 🅰NKUR's GitHub Profile.</h2><br/>
+<h2> Hey 👋🏻, welcome to 🅰nkur's GitHub Profile.</h2><br/>
 
 ![GitHub followers](https://img.shields.io/github/followers/ankurdaharwal?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/An1cu12?style=social)

@@ -97,9 +97,13 @@ Being an early adopter he has been developing on Web3 since 2016 involved with s
 
 <h3> 🏆 &nbsp;Buildspace NFTs</h3>
 
+- [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/2584)
+
 https://user-images.githubusercontent.com/25655858/142779142-d491bb45-cef6-4565-a64f-597df0baf14a.mp4
 
 <br/>
+
+- [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1827)
 
 https://user-images.githubusercontent.com/25655858/142779153-c03a1aef-fe92-4a6f-b9ef-cc2979accf20.mp4
 

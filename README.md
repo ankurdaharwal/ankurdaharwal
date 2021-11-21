@@ -63,7 +63,7 @@ Being an early adopter he has been developing on Web3 since 2016 involved with s
   ![Moleculer](https://img.shields.io/badge/-Moleculer-5a4089?style=flat&logo=Moleculer)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-5a4089?style=flat&logo=GraphQL)
   ![JSON RPC](https://img.shields.io/badge/-JSON%20RPC-5a4089?style=flat&logo=JSON)
-- 📝 &nbsp;IDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 📝 &nbsp;IDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5a4089?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Remix](https://img.shields.io/badge/-Remix-5a4089?style=flat&logo=Solidity&logoColor=silver)
   ![Vim](https://img.shields.io/badge/-Vim-5a4089?style=flat&logo=vim&logoColor=007ACC)

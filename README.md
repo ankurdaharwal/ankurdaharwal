@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://ankurdaharwal.wixsite.com/blockchain" target="_blank">
-    <img src="https://github.com/ankurdaharwal/ankurdaharwal/🅰NKUR.gif">
+    <img src="https://github.com/ankurdaharwal/ankurdaharwal/blob/master/%F0%9F%85%B0NKUR.gif">
   </a>
 </p
 
-<h2> Hey 👋🏻, welcome to Ankur's GitHub Profile.</h2><br/>
+<h2> Hey 👋🏻, welcome to 🅰NKUR's GitHub Profile.</h2><br/>
 
 ![GitHub followers](https://img.shields.io/github/followers/ankurdaharwal?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/An1cu12?style=social)

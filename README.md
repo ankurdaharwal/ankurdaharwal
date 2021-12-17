@@ -11,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ankurdaharwal?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/An1cu12?style=social)
 
-- 🚀 Inspired by the power of Blockchain and Decentralisation since 2⃣0⃣1⃣6⃣
+- 🚀 Inspired by the power of Blockchain and Decentralisation since 2⃣ 0⃣ 1⃣ 6⃣
 
 - 👷🏻‍♂️ Web3 and Blockchain Full Stack Engineer
 
@@ -59,7 +59,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-5a4089?style=flat&logo=node.js)
   ![Web3](https://img.shields.io/badge/-Web3.js-5a4089?style=flat&logo=Web3.js)
   ![Solidity](https://img.shields.io/badge/-Solidity-5a4089?style=flat&logo=Solidity)
-- ☁ &nbsp;Cloud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- ☁ &nbsp;Cloud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-5a4089?style=flat&logo=AmazonAWS)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-5a4089?style=flat&logo=GoogleCloud)
   ![IBM Bluemix](https://img.shields.io/badge/-IBM%20Bluemix-5a4089?style=flat&logo=IBM)

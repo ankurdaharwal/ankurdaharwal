@@ -11,9 +11,23 @@
 ![GitHub followers](https://img.shields.io/github/followers/ankurdaharwal?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/An1cu12?style=social)
 
-Ankur is a Blockchain and Full-stack Web3 Developer with over a decade of cross-industry software engineering experience.
-Being an early adopter he has been developing on Web3 since 2016 involved with some of the top blockchain projects in the industry. Started his journey with enterprise Blockchain using Hyperledger Fabric, R3 Corda and Enterprise Ethereum. By the end of 2017, he transitioned from centralized permissioned chains to decentralized public chains and has been truly inspired by the power of decentralization ever since.
+- 🚀 Inspired by the power of Blockchain and Decentralisation since 2⃣0⃣1⃣6⃣
+
+- 👷🏻‍♂️ Web3 and Blockchain Full Stack Engineer
+
+- 🧑🏻‍💻 Technical Consultant and Solution Architect
+
+- 🛠 Building the Metaverse 🌌
+
+- 👨‍👩‍👦‍👦 Contributing to DAOs 🧑🏾‍🤝‍🧑🏻
+
+- 💰 Investing in Farms 💸
+
+- 🌱 Saving the Planet 🔋
+
 <br/><br/>
+
+<b> 🌈 View <a href="https://oncyber.io/ankur">my NFT Gallery</a> in the Metaverse</b>
 
 <h3> 🧑🏻‍💻 &nbsp;Tech Stack</h3>
 
@@ -106,7 +120,5 @@ https://user-images.githubusercontent.com/25655858/142779142-d491bb45-cef6-4565-
 - [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1827) | [Play the Game](https://vikings-nft.vercel.app)
 
 https://user-images.githubusercontent.com/25655858/142779153-c03a1aef-fe92-4a6f-b9ef-cc2979accf20.mp4
-
-<b> 🌈 View <a href="https://oncyber.io/ankur">my NFT Gallery</a> in the Metaverse</b>
 
 <a href="https://app.daily.dev/ankurdaharwal"><img src="https://api.daily.dev/devcards/c74a0dfebfb8497dbf807c90e3832266.png?r=mws" width="400" alt="Ankur's Dev Card"/></a>

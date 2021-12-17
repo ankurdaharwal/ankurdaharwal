@@ -25,8 +25,6 @@
 
 - 🌱 Saving the Planet 🔋
 
-<br/><br/>
-
 <b> 🌈 View <a href="https://oncyber.io/ankur">my NFT Gallery</a> in the Metaverse</b>
 
 <h3> 🧑🏻‍💻 &nbsp;Tech Stack</h3>

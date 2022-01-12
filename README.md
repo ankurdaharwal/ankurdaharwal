@@ -25,7 +25,7 @@
 
 - 🌱 Saving the Planet 🔋
 
-<b> 🌈 View <a href="https://oncyber.io/an1cu12">my space pod home</a> in the Metaverse</b>
+<b> 🌈 View <a href="https://oncyber.io/an1cu12">my home</a> in the Metaverse</b>
 
 <h3> 🧑🏻‍💻 &nbsp;Tech Stack</h3>
 

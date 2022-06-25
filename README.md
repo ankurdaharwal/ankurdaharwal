@@ -71,11 +71,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-5a4089?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-5a4089?style=flat&logo=gitlab)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-5a4089?style=flat&logo=bitbucket&logoColor=blue)
-- 🔌 &nbsp;Microservices & Integration&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔌 &nbsp;Microservices & Integration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Moleculer](https://img.shields.io/badge/-Moleculer-5a4089?style=flat&logo=Moleculer)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-5a4089?style=flat&logo=GraphQL)
   ![JSON RPC](https://img.shields.io/badge/-JSON%20RPC-5a4089?style=flat&logo=JSON)
-- 📝 &nbsp;IDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 📝 &nbsp;IDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-5a4089?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Remix](https://img.shields.io/badge/-Remix-5a4089?style=flat&logo=Solidity&logoColor=silver)
   ![Vim](https://img.shields.io/badge/-Vim-5a4089?style=flat&logo=vim&logoColor=007ACC)

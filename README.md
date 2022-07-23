@@ -110,6 +110,10 @@
 
 <h3> 🏆 &nbsp;Buildspace NFTs</h3>
 
+- [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/20572)
+
+https://user-images.githubusercontent.com/25655858/180599609-c973706c-5336-4b23-8150-e158163f8c53.mp4
+
 - [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/17658)
 
 https://user-images.githubusercontent.com/25655858/169746932-b2a7abca-0df9-4f7b-99bf-c2f1f7e30708.mp4

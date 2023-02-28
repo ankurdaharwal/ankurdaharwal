@@ -1,9 +1,8 @@
-<p align="center">
+<h1 align="center">
   <a href="https://ankurdaharwal.wixsite.com/blockchain" target="_blank">
-    <img src="https://github.com/ankurdaharwal/ankurdaharwal/blob/master/ANKUR.png">
+    🅰 N K U R
   </a>
-</p
-<br/><br/>
+</h1>
 <h2> Hey 👋🏻, welcome to 🅰nkur's GitHub Profile.</h2><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ankurdaharwal" alt="ankurdaharwal" />

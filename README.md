@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ankurdaharwal.wixsite.com/blockchain" target="_blank">
-    <img src="https://github.com/ankurdaharwal/ankurdaharwal/blob/master/%F0%9F%85%B0NKUR.gif">
+    <img src="https://github.com/ankurdaharwal/ankurdaharwal/blob/master/ANKUR.gif">
   </a>
 </p
 <br/><br/>

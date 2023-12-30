@@ -139,5 +139,3 @@ https://user-images.githubusercontent.com/25655858/142779142-d491bb45-cef6-4565-
 - [View on OpenSea](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1827) | [Play the Game](https://vikings-nft.vercel.app)
 
 https://user-images.githubusercontent.com/25655858/142779153-c03a1aef-fe92-4a6f-b9ef-cc2979accf20.mp4
-
-<a href="https://app.daily.dev/ankurdaharwal"><img src="https://api.daily.dev/devcards/c74a0dfebfb8497dbf807c90e3832266.png?r=mws" width="400" alt="Ankur's Dev Card"/></a>
